@@ -129,15 +129,16 @@ from there.
 <hr/>
 <br />
 
-## Jobeir
+## Narative
 
-This is a curated list of resources by the team at Jobeir.
-<a href="https://jobeir.com/jobs?q=Frontend%20Developer">Find the best jobs at
-the best tech companies</a>.  
+This is a curated list of resources by the team at .
+<a href="https://narative.co/">Narative</a>.  
 
-We're a new (engineering/product/design focused) job board focused on helping people find their perfect job. We value the small details and making a difference through communication, content, and product.  
+Narative brands, builds and markets products on behalf of growth-minded companies. </br>
+We're a team with senior startup experience here to help your business take the next step.
 
-<a href="https://jobeir.com/jobs">Jobeir.com</a>
+
+<a href="https://narative.co/">Narative.co</a>
 
 <hr />
 
