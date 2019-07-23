@@ -131,7 +131,7 @@ from there.
 
 ## Narative
 
-This is a curated list of resources by the team at .
+This is a curated list of resources by the team at 
 <a href="https://narative.co/">Narative</a>.  
 
 Narative brands, builds and markets products on behalf of growth-minded companies. </br>
