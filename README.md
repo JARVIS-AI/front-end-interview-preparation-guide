@@ -91,7 +91,10 @@ and
 
 #### [Frontend Job Interview Questions, including algorithms](https://github.com/khan4019/front-end-Interview-Questions)
 
+#### [Adeva JS interview questions](https://adevait.com/javascript-developers/interview-questions)
+
 #### [Toptal JavaScript interview questions](https://www.toptal.com/javascript/interview-questions)
+
 
 ### Frontend Quizzes
 
